@@ -13,4 +13,6 @@ Bei Problemen oder Fragen am besten an Discord ImaSimp#1111 oder GalaxyCK#2921
 
 Website für die Downloads https://www.kochdesign.eu/Betas/AddisonMod/beta.html
 
+Discord https://kochdesign.eu/Discord.html
+
 Mitmachen können geladene Teilnehmer. Sollte jemand trotzdem den Wunsch verspüren mitmachen zu wollen, gibt es dafür sicherlich eine Möglichkeit. Am besten schreibst du kurz auf Discord.
