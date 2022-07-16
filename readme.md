@@ -9,7 +9,7 @@ Mehrere Teams verteilt auf einer Custom erstellten Map, es herrscht eine andere 
 Konstruktion seines Hauptsitzes, genug Platz ist auf der Map mit einer Größe von 100k x 100k Blöcken, doch wer kann sein Hauptsitz überhaupt beschützten und wird nicht durch andere dabei gestört. Am Anfang scheint es, als wäre man alleine auf der Map, keiner Weiß, wo sich die anderen befinden, doch schon nach kurzer Zeit werden die ersten Positionen aufgedeckt. Freund oder Feind, was ist wichtiger zu haben? Ist es sinnvoller, seine Sachen einzunehmen oder doch ein Handelspakt zu schließen? All diese Fragen stellen sich unsere Teilnehmer.
 
 
-Bei Problemen oder Fragen am besten an Discord ImaSimp#1111. 
+Bei Problemen oder Fragen am besten an Discord ImaSimp#1111 oder GalaxyCK#2921
 
 Website für die Downloads https://www.kochdesign.eu/Betas/AddisonMod/beta.html
 
