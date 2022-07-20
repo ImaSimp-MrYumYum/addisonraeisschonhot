@@ -6,7 +6,7 @@ Die Ips und der Download zur Mod und Welt sind aufgrund Copyright Richtlinien nu
 
 Kurze Beschreibung zum Projekt:
 Mehrere Teams verteilt auf einer Custom erstellten Map, es herrscht eine andere Zeit, das Mittelalter. Nun stellt sich die Frage, wer kann das größte Königreich bilden, wer kann die meisten Drachen zähmen und wer dominiert schlussendlich die gesamte Map. 
-Konstruktion seines Hauptsitzes, genug Platz ist auf der Map mit einer Größe von 100k x 100k Blöcken, doch wer kann sein Hauptsitz überhaupt beschützten und wird nicht durch andere dabei gestört. Am Anfang scheint es, als wäre man alleine auf der Map, keiner Weiß, wo sich die anderen befinden, doch schon nach kurzer Zeit werden die ersten Positionen aufgedeckt. Freund oder Feind, was ist wichtiger zu haben? Ist es sinnvoller, seine Sachen einzunehmen oder doch ein Handelspakt zu schließen? All diese Fragen stellen sich unsere Teilnehmer.
+Konstruktion seines Hauptsitzes, genug Platz ist auf der Map mit einer Größe von 60k x 30k Blöcken, doch wer kann sein Hauptsitz überhaupt beschützten und wird nicht durch andere dabei gestört. Am Anfang scheint es, als wäre man alleine auf der Map, keiner Weiß, wo sich die anderen befinden, doch schon nach kurzer Zeit werden die ersten Positionen aufgedeckt. Freund oder Feind, was ist wichtiger zu haben? Ist es sinnvoller, seine Sachen einzunehmen oder doch ein Handelspakt zu schließen? All diese Fragen stellen sich unsere Teilnehmer.
 
 
 Bei Problemen oder Fragen am besten an Discord ImaSimp#1111 oder GalaxyCK#2921
@@ -16,3 +16,5 @@ Website für die Downloads https://www.kochdesign.eu/Betas/AddisonMod/beta.html
 Discord https://kochdesign.eu/Discord.html
 
 Mitmachen können geladene Teilnehmer. Sollte jemand trotzdem den Wunsch verspüren mitmachen zu wollen, gibt es dafür sicherlich eine Möglichkeit. Am besten schreibst du kurz auf Discord.
+
+Feature Requests und Bugs könnt ihr auf dem Github angeben.
